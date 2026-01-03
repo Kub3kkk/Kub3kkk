@@ -1,10 +1,8 @@
 # Hi 👋, I'm Kub3kk
 
-### 🎓 Student 
+###  Student 
 
-- 🌱 I'm currently learning **Cybersecurity, python and networking**
 
-- 👯 I'm looking to collaborate on **open source projects**
 
 
 <h3 align="left">Contact with me:</h3>
