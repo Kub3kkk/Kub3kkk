@@ -21,6 +21,6 @@
 **Languages and Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,linux,html,css,js,python" />
+    <img src="https://skillicons.dev/icons?i=git,bash,linux,html,css,js,python,kali" />
   </a>
 </p>
