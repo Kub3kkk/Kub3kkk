@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Languages & Frameworks
+
 
 <p align="center">
   <a href="https://skillicons.dev">
